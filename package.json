@@ -1,0 +1,32 @@
+{
+  "name": "rangeslider-with-histogram",
+  "version": "1.0.0",
+  "description": "built using React Compound Slider, react chartjs 2, and Material UI\n",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "3.9.3",
+    "chart.js": "2.8.0",
+    "prettier": "1.17.1",
+    "react": "16.8.6",
+    "react-chartjs-2": "2.7.6",
+    "react-compound-slider": "2.0.0",
+    "react-dom": "16.8.6",
+    "react-scripts": "2.1.8"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
